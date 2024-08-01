@@ -15,3 +15,4 @@ The algorithm is a retrained resnet18 model, using a dataset of 100 sports downl
 4. Add short descriptions based on the class indices for each sport in a list; print out the index of the list.
 5. Export the model and hardcode it into the python file.
 6. Run on a test image!
+This project requires the jetson-inference and jetson-utils libraries, as well as pytorch.
