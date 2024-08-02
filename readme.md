@@ -17,7 +17,7 @@ The algorithm is a retrained resnet18 model, using a dataset of 100 sports downl
 
 ## How to run
 1. Enter Terminal.
-2. Run the script: python3 sportAI.py (image path here)
+2. Run the script: ``python3 sportAI.py (image path here)``
 3. It will output the recognized image class and sport description. 
 
 ## Required libraries
