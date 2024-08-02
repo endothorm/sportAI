@@ -15,10 +15,10 @@ The algorithm is a retrained resnet18 model, using a dataset of 100 sports downl
 4. Add short descriptions based on the class indices for each sport in a list; print out the index of the list.
 5. Export the model and hardcode it into the python file.
 
-##How to run
+## How to run
 1. Enter Terminal.
 2. Run the script: python3 sportAI.py (image path here)
 3. It will output the recognized image class and sport description. 
 
-##Required libraries
+## Required libraries
 This project requires the jetson-inference and jetson-utils libraries, as well as pytorch.
