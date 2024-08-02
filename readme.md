@@ -6,7 +6,7 @@ This project is a resnet-based neural network designed to recognize 100 differen
 
 The algorithm is a retrained resnet18 model, using a dataset of 100 sports downloaded from kaggle. It was trained for 15 epochs. It takes in a test image of the sport and outputs the class index, class name (the sport name) and a short description of the sport based on the class index.
 
-[View a video explanation here](video link)
+[View a video explanation here]([video link](https://drive.google.com/file/d/19pCwHDQmYCjw09o_uueW94Esgo7Iryuk/view?usp=sharing))
 
 ## Reproducing the Model
 1. Code a basic Python image recognition script based on the my_recognition project.
